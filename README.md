@@ -1,10 +1,6 @@
-# Contents
-1. [Introduction](#introduction)
-2. [License](#license)
-
 # Introduction
 
-In this web page, we provide the C++ implementation of the energy saving scheme proposed in our paper '[An Improved Energy Saving Scheme in IEEE 802.16e](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE01936648).' In this study, we proposed an improved energy saving scheme which reduces energy consumption, by defining efficient sleep and listening windows, when a mobile station uses multiple Types I and II service sessions. Simulation results show that the proposed scheme has an improved energy saving than conventional schemes.
+In this web page, we provide the C++ implementation of the energy saving scheme proposed in our paper '[An Improved Energy Saving Scheme in IEEE 802.16e](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE01936648).' In this study, we proposed an improved energy saving scheme which reduces energy consumption, by defining efficient sleep and listening windows, when a mobile station uses multiple Types I and II service sessions. Simulation results showed that the proposed scheme has an improved energy saving than conventional schemes.
 
 # Citation
 
