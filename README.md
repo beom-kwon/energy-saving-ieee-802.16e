@@ -11,14 +11,14 @@ In this web page, we provide the C++ implementation of the energy saving scheme 
 Please cite this paper in your publications if it helps your research.
 
 ```
-@article{kwon2021joint,
+@article{kwon2012ieee,
   author={Kwon, Beom and Chung, Yun Won},
   journal={The Journal of Korean Institute of Information Technology},
   title={An Improved Energy Saving Scheme in IEEE 802.16e},  
   year={2012},
   volume={10},
   number={8},
-  pages={43-51}
+  pages={43--51}
 }
 ```
 Paper link:
